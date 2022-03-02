@@ -10,6 +10,7 @@ function onLoginSubmit(info){
     // console.log(info);
     const userName = loginInput.value;
     console.log(userName);
+    console.log("aaaaaaaaa")
 
 }
 
