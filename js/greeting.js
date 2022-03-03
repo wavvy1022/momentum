@@ -43,8 +43,6 @@ function handleListClick(event){
 
 }
 
-
-link.addEventListener("click", handleListClick)
 loginForm.addEventListener("submit", onLoginSubmit)
 
 
